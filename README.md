@@ -1,0 +1,2 @@
+# PluginBatterySaver
+A Rainmeter plugin
