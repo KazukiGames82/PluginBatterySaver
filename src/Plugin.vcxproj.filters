@@ -10,6 +10,7 @@
   <ItemGroup>
     <ClInclude Include="Measure.h" />
     <ClInclude Include="Plugin.h" />
+    <ClInclude Include="resource.h" />
   </ItemGroup>
   <ItemGroup>
     <None Include="..\.gitignore" />
